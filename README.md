@@ -31,9 +31,7 @@ Program to  implement a Decision Tree model for tumor classification.
 Developed by:Yogamahendran G
 RegisterNumber: 212225040500
 
-Program to  implement a Decision Tree model for tumor classification.
-Developed by: MONICA G
-RegisterNumber:  212224040198
+
 */
 Import necessary libraries
 import pandas as pd
